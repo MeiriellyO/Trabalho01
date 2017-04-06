@@ -4,13 +4,15 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1.COMPONENTES<br>
-Integrantes do grupo<br>
+Meirielly de Oliveira Souza<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
 ### 3.MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+Existem muitas pessoas que passam por necessidades, como fome, frio...E muitas das vezes as pessoas querem ajudar, mas sentem dificuldade em encontrar aqueles que realmente precisam, bem como de entrar em contato com elas. 
+Outros não sabem que existem essas pessoas necessitadas em sua própria região e instituições que buscam ajuda-las.
+ <br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
